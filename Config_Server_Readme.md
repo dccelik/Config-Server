@@ -1,6 +1,6 @@
 # Config Server
 
-[Github](https://github.com/dccelik/eureka_server)
+[Github](https://github.com/dccelik/Config-Server)
 ---
 
 ## Config Server
