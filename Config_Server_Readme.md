@@ -15,5 +15,5 @@
 - Eğer uygulamamız merkezi olarak yönetilen konfigürasyonları almak için Spring Cloud servera bağlanacaksa biz Config Client ekliyoruz.
 
 ## Sprint Cloud(Config Server)
-- Merkezi bir konfigürasyon yönetim sunuculuğunu yapar.
+- Merkezi bir konfigürasyon yönetim sunuculuğunu yapar. 
 - Bir ve ya daha fazla mikroservislerin konfigürasyon dosyalarını merkezi bir yerde sunar
